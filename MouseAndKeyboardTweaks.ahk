@@ -5,6 +5,8 @@
 
 *RControl:: +F10
 
+; :)
+
 +!Left:: SendInput "{Home}"
 +!Right:: SendInput "{End}"
 
